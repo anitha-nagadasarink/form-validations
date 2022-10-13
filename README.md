@@ -27,7 +27,7 @@ Form Validation app which has below features.
 
 # Time taken to finish this project :
 
-8 hours to finish this project.
+6 hours to finish this project.
 
 ### You can Check it Live on Below Link :
 
