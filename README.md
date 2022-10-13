@@ -31,11 +31,11 @@ Form Validation app which has below features.
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://new-music-player-app.netlify.app/)
+[Demo Link!](https://signup-form-validations.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/music-player/blob/Javascript-projects/images/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/form-validations/blob/Javascript-apps/images/demo.PNG)
 
 
 
