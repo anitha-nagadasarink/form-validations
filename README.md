@@ -36,6 +36,7 @@ Form Validation app which has below features.
 ### Demo :
 
 ![App Image](https://github.com/anitha-nagadasarink/form-validations/blob/Javascript-apps/images/demo.PNG)
+![App Image with Error](https://github.com/anitha-nagadasarink/form-validations/blob/Javascript-apps/images/demo-error.PNG)
 
 
 
